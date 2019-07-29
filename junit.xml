@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="9" failures="0" time="6.606">
+  <testsuite name="button" errors="0" failures="0" skipped="0" timestamp="2019-06-10T13:12:04" time="3.89" tests="5">
+    <testcase classname="button 是个div" name="button 是个div" time="0.006">
+    </testcase>
+    <testcase classname="button 接受2个 className" name="button 接受2个 className" time="0.001">
+    </testcase>
+    <testcase classname="button 接受undefined结果不会出现undefined" name="button 接受undefined结果不会出现undefined" time="0">
+    </testcase>
+    <testcase classname="button 接受各种奇怪值" name="button 接受各种奇怪值" time="0">
+    </testcase>
+    <testcase classname="button 接受0个参数" name="button 接受0个参数" time="0.008">
+    </testcase>
+  </testsuite>
+  <testsuite name="icon" errors="0" failures="0" skipped="0" timestamp="2019-06-10T13:12:08" time="0.926" tests="2">
+    <testcase classname="icon render successfully" name="icon render successfully" time="0.015">
+    </testcase>
+    <testcase classname="icon onClick" name="icon onClick" time="0.059">
+    </testcase>
+  </testsuite>
+  <testsuite name="button" errors="0" failures="0" skipped="0" timestamp="2019-06-10T13:12:09" time="0.408" tests="1">
+    <testcase classname="button 是个div" name="button 是个div" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="我的第一个测试用例" errors="0" failures="0" skipped="0" timestamp="2019-06-10T13:12:09" time="0.268" tests="1">
+    <testcase classname="我的第一个测试用例 add(1,2) 等于3" name="我的第一个测试用例 add(1,2) 等于3" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>

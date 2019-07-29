@@ -1,0 +1,19 @@
+{
+  "name": "06demo-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "options": "^0.0.6",
+    "st111": "^0.0.7"
+  },
+  "devDependencies": {
+    "start": "^5.1.0"
+  }
+}
